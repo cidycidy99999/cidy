@@ -4,3 +4,13 @@ Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick and simple.
 this is add merge.
+
+
+
+
+
+
+
+
+git02_clone:
+this is another colleague.
